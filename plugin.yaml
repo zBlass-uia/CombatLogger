@@ -1,0 +1,7 @@
+name: CombatLogger
+main: tizzi\Loader
+version: 1.0.0
+api: [2.0.0]
+author: tizzi32
+description: CombatLogger para hcf/survival Spawnea aldeano al desconectarse en combate.
+
